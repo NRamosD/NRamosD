@@ -5,4 +5,4 @@
 
 
 ![Nixon's github stats](https://github-readme-stats.vercel.app/api?username=nramosd&show_icons=true&hide_border=true)
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nramosd&layout=compact&langs_count=8"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nramosd&layout=compact&langs_count=8"/>

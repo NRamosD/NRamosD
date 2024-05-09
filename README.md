@@ -4,9 +4,13 @@
     
 - 🌈 I've a wide experience as Frontend Developer and my preferences are **React, Angular and Svelte**
 
-- ☠️ But, I also know about backend and I usually use **Express, .Net or Laravel**
+- ☠️ But, I also know about Backend and I usually use **Express, .Net or Laravel**
 
-- 📱 Also, I've developed some mobile apps projects with **React Native and Kotlin** 
+- 📱 Also, I've developed some mobile apps projects with **React Native and Kotlin**
+
+- 🤖 I like to keep learning, and [other skills that I have are these](https://n9.cl/nr-anexos).
+
+- 💻 More about me [here](nixrdev.github.io).
 
 - 📫 Reach me at **nixonramosdue@gmail.com**
 

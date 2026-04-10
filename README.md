@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/nix-ramos">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://nixrdev.github.io">
+  <a href="https://nixonramosdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>

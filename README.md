@@ -96,8 +96,7 @@
 
 ## 📊 GitHub Stats
 
-![Mis Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Stats Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRamosD&theme=react-dark)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NRamosD&theme=tokyonight"/>

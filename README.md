@@ -95,9 +95,14 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRamosD&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NRamosD&theme=react-dark" alt="Stats Graph" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NRamosD&theme=tokyonight"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=NRamosD&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
+
+

@@ -31,7 +31,7 @@
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-★★★★★-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-★★★★☆-000000?style=flat&logo=next.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-★★★★★-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=flat&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-★★★★☆-0A0A0A?style=flat&logo=astro&logoColor=white)
 
@@ -60,8 +60,10 @@
 
 ![AWS](https://img.shields.io/badge/AWS-★★★★☆-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-★★★★☆-E10098?style=flat&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★★★-00571F?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★★★-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★★-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-★★★★☆-256DCC?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -87,11 +89,15 @@
 - ☁️ AWS Cloud Solutions Architect  
 - ⚛️ Meta Frontend Developer  
 - 🎓 Harvard CS50 Web Programming  
-- 🔍 SEO Specialization  
+- 🔍 SEO Specialization
+- 🤖 AI Engineer for Developers Associate
 
 ---
 
 ## 📊 GitHub Stats
+
+![Mis Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NRamosD&theme=tokyonight"/>
